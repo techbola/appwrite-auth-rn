@@ -1862,6 +1862,11 @@
 "appdirsjs@^1.2.4":
   "version" "1.2.7"
 
+"appwrite@^15.0.0":
+  "integrity" "sha512-rzmo+87tizYLs3YnRLets+vMUF85S/OHkgiGgp0UKcKJj0U1RktAsuIecFqRROKfkqs0fKzggRAIs3RCoYQQwA=="
+  "resolved" "https://registry.npmjs.org/appwrite/-/appwrite-15.0.0.tgz"
+  "version" "15.0.0"
+
 "argparse@^1.0.7":
   "version" "1.0.10"
   dependencies:
